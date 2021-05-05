@@ -6,7 +6,7 @@ Create a 404 not found page following the design. The page should be responsive.
 
 # Technologies used in the project:
 
-HTML 5 - Layout and web structure.
+HTML 5 - Layout and web structure. <br>
 CSS 3 - Style design.
 
 # Try the live demo
